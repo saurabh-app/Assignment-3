@@ -1,15 +1,22 @@
 # assignment3
 
-A new Flutter project.
+This interactive Flutter app demonstrates a fun and meaningful use of the setState() method. It features a dynamic counter that:
+
+🔢 Increments with a button press
+
+🎨 Changes background color randomly
+
+😄 Displays different emojis based on the count
+
+🔠 Grows the text size with each tap
+
+Each interaction updates the UI in real-time using setState(), helping reinforce how state changes trigger widget rebuilds in a visually engaging way.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+![assignment3](https://github.com/user-attachments/assets/96c4b1b9-faba-4ac4-bc58-6f85343696db)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
